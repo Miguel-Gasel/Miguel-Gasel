@@ -1,4 +1,5 @@
-I'm a photographer 📷 / videographer 🎥 turned into Junior Web Designer! Will try to find ways to connect both worlds into beautiful websites!
+I'm a photographer 📷 / videographer 🎥 / graphic designer ✒ turned into Junior Web Designer! Right now I'm leaning towards being a Full Stack Developer, but my main studies has been focused on Front End side of things: HTML5, CSS3 (& SCSS), JavaScript(& jQuery) and then I dove into PHP (and Laravel framework) with MySQL. Right now I'm trying to find ways to merge my previous knowledge to this new discipline so I can bring to life new pages layouts and functionalities. I'm always willing to learn new things and get into new and different projects.
+
 
 ![Welcome to Miguel Galiana's Github](https://www.miguelgaliana.com/miguelgaliana.gif)
 
