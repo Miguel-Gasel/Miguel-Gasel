@@ -3,12 +3,15 @@ I'm a photographer 📷 / videographer 🎥 turned into Junior Web Designer! Wil
 ![Welcome to Miguel Galiana's Github](https://www.miguelgaliana.com/miguelgaliana.gif)
 
 ## Check what I do! 🎨
-- Portfolio web : https://miguelgaliana.com
-- Contacto      : contacto@miguelgaliana.com
+
+- Contacto 📩       : contacto@miguelgaliana.com
+- Portfolio web 📚  : https://miguelgaliana.com
 
 ##  Come and say hi! 🤙
-- LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Miguel.Galiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-galiana-selva/)](https://www.linkedin.com/in/miguel-galiana-selva/)      : https://www.linkedin.com/in/miguel-galiana-selva/
-- Github ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)       : https://github.com/Miguel-Gasel
+
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github): https://github.com/Miguel-Gasel
+- [![Linkedin Badge](https://img.shields.io/badge/-Miguel.Galiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-galiana-selva/)](https://www.linkedin.com/in/miguel-galiana-selva/)           : https://www.linkedin.com/in/miguel-galiana-selva/
+
 
 ## Which technologies I use 🛠
 
