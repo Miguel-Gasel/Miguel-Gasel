@@ -1,6 +1,6 @@
 I'm a photographer 📷 / videographer 🎥 turned into Junior Web Designer! Will try to find ways to connect both worlds into beautiful websites!
 
-https://www.miguelgaliana.com/miguelgaliana.gif
+![Welcome to Miguel Galiana's Github](https://www.miguelgaliana.com/miguelgaliana.gif)
 
 ## Check what I do! 🎨
 - Portfolio web: https://miguelgaliana.com
